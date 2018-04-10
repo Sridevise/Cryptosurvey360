@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="134e27b2-1c70-49f3-bdc4-e17fc90e93d3" name="VerifyToken" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="134e27b2-1c70-49f3-bdc4-e17fc90e93d3fileName">VerifyToken</con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>
